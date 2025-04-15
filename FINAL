@@ -101,7 +101,7 @@
         "            }\n",
         "        }\n",
         "\n",
-        "        # Define technological evolution categories for analysis\n",
+        "        # Technological evolution categories for analysis\n",
         "        self.tech_evolution_categories = {\n",
         "            'encryption_technology': [\n",
         "                'encryption', 'decrypt', 'cryptography', 'key', 'cipher', 'cryptographic',\n",
